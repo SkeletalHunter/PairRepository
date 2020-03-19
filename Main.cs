@@ -2,9 +2,9 @@ using System;
 
 namespace Lab
 {
-    class MainClass
+    class Main
     {
-        public static void Main(string[] args)
+        public static void New()
         {
             int i = 2 + 2;
             i += 4;
