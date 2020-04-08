@@ -11,7 +11,7 @@ namespace Lab
             i++;
             //I wish author to end 3rd class! ;)
 
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Hello world!");
         }
     }
 }
